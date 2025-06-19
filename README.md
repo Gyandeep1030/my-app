@@ -1,3 +1,4 @@
+
 # 🛒 Product Listing Page – Frontend Developer Assignment
 
 This project is a **responsive product listing web application** built with **Next.js**, **React.js**, and **Bootstrap 5**, created as part of a Frontend Intern assignment.
@@ -42,6 +43,9 @@ npm install
 
 ```bash
 npm run dev
+```
+
+
 ---
 
 ## 🗂️ Project Structure
